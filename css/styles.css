@@ -30,7 +30,16 @@ h1{
   height: 200px;
   width: 50%;
   max-width: 400px;
+  color: black;
+
+  display: flex;
+  flex-direction: column;
+  }
+
+.card p {
+  margin-left: 2em;
 }
+
 
 .btnContainer{
   padding: 20px 0;
